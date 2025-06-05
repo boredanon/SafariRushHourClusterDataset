@@ -11,10 +11,10 @@ The left is an example board in the physical version of the game, right is a gra
 
 ## Contents
 
-+ **idastar_seed_11111.csv** - A list of 56,541 clusters, solved by iterating through all of their boards and running IDA*+TT on each.
-+ **idastar_seed_22222.csv** - A list of 34,527 clusters, solved by iterating through all of their boards and running IDA*+TT on each.
-+ **retrograde_seed_11111.csv** - A list of 162,324 clusters, solved through Retrograde Analysis.
-+ **retrograde_seed_22222.csv** - A list of 169,228 clusters, solved through Retrograde Analysis.
++ **idastar_A.csv** - A list of 56,541 clusters, solved by iterating through all of their boards and running IDA*+TT on each.
++ **idastar_B.csv** - A list of 34,527 clusters, solved by iterating through all of their boards and running IDA*+TT on each.
++ **retrograde_A.csv** - A list of 162,324 clusters, solved through Retrograde Analysis.
++ **retrograde_B.csv** - A list of 169,228 clusters, solved through Retrograde Analysis.
 
 ## Dataset Information
 

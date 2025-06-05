@@ -36,7 +36,7 @@ The cluster column has the cluster identifier. It consists of two parts, a *hexa
 
 The hexadecimal number corresponds to the distribution of pieces along the rows and columns. The unranked form can be obtained by converting the number from hexadecimal to a base-6 number, and taking the 14 resultant digits (fill with 0 to the left). Each digit corresponds a type of distribution of pieces along a row or column, as shown in the figure below. 
 
-The first 7 digits correspond to the configuration of the columns and the remaining 7 to the configuration of the rows. The configuration is read from **right to left** (for columns) and **bottom to top** (for rows).
+The first 7 digits correspond to the configuration of the columns and the remaining 7 to the configuration of the rows. The configuration is read from **left to right** (for columns) and **top to bottom** (for rows).
 
 <p align="center">
     <img src="images/rowcoldist.png" alt="drawing" width="500"/>

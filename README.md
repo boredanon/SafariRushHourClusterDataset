@@ -70,7 +70,7 @@ Integer variable describing the number of legal boards within the cluster. Illeg
 
 ### Max Length
 
-Integer variable describing the solution length from the board within the cluster that has the longest length. This value is obtained by running either IDA*+TT or Retrograde Analysis.
+Integer variable describing the solution length from the board within the cluster that has the longest length. This value is obtained by running either IDA*+TT or Retrograde Analysis. Illegals and clusters without solution are marked with a Max Length of -1.
 
 ### Time
 
